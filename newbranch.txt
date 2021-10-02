@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is created in branch devops
+=======
+File in new branch in the repo
+>>>>>>> f10dd73852f0e04175178fa3fd18710c8d56a6b4
